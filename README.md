@@ -2,8 +2,8 @@
 
 ## Atividade - Criar pagina do facebook
 
--[Login](login.html)
+-[Login](html/login.html)
 
--[Style](style.css)
+-[Style](style/style.css)
 
 -[img](img)
